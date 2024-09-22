@@ -1,0 +1,5 @@
+a = int(input("Введіть a: "))
+b = int(input("Введіть b: "))
+c = int(input("Введіть c: "))
+result =(a * 100 + b * 10 + c)
+print("Трицифрове число:", result)
